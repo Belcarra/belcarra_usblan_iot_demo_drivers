@@ -9,6 +9,10 @@ See the Windows directory for two kits:
         - Win10 - kit for Windows 10
 
 
+The Windows driver zip files are password protected to make them easier to send by email. 
+
+The password to unzip is: *iot*
+
 *N.B. The demonstration drivers are limited to 30 minutes of use. Replugging the device will restart
-the 30 minute timer.
+the 30 minute timer.*
 

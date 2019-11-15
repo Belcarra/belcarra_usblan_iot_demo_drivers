@@ -3,7 +3,7 @@
 This repository contains Belcarra USBLAN demonstration Windows drivers 
 for IoT devices.
 
-See the Windows directory for two kits:
+**Clone or download the repository** and then see the Windows directory for two kits:
 
         - Win78 - kits for older versions of Windows
         - Win10 - kit for Windows 10

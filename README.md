@@ -1,4 +1,4 @@
-# Belcarra IOT_Demo
+# Belcarra IOT Demo Windows Drivers
 
 This repository contains Belcarra USBLAN demonstration Windows drivers 
 for IoT devices.
